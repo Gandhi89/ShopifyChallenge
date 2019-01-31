@@ -2,7 +2,7 @@
 
 As part of Shopify challenge,this application is build to gather important data from large information. This application uses OkHttp Library to get response from API and picasso Library to load image from API 
 
-![Alt Text](https://github.com/Gandhi89/ShopifyChallenge/blob/master/shopify.gif)
+![Alt Text](https://github.com/Gandhi89/ShopifyChallenge/blob/master/Shopify.gif)
 
 # Libraries 
 * `OkHttp Library` - For sending and receive HTTP-based network requests
